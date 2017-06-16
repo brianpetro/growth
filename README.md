@@ -1,7 +1,7 @@
 # Growth
 *How we communicate who we are.*
 
-This is a collection of strategies, methodologies, opinions, tools, and resources that we can use to help us simply communicate who we are to those that do not currently know.
+This is a collection of strategies, methodologies, opinions, tools, and [resources](https://github.com/pinpt/growth/blob/master/resources.md) that we can use to help us simply communicate who we are to those that do not currently know.
 
 Naturally, all of this aligns directly with our [mission and values](https://github.com/pinpt/handbook/blob/master/0-introduction.md).
 
