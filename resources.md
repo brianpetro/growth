@@ -33,6 +33,7 @@ The following are resources that may prove useful for how we engage and build ou
 - [The Twitter Rules of Content - Policy](https://support.twitter.com/articles/18311)
 - [Product and content are two sides of the same value proposition](https://medium.com/@nisfrome/product-and-content-are-two-sides-of-the-same-value-proposition-acadba6aa65b)
 - [What is Product Marketing](https://blog.hubspot.com/marketing/what-is-product-marketing)
+- [The Best Content Marketers in the World](http://tomtunguz.com/best-content-marketers/)
 
 ## Community Building
 
