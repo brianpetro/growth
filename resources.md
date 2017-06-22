@@ -35,6 +35,10 @@ The following are resources that may prove useful for how we engage and build ou
 - [What is Product Marketing](https://blog.hubspot.com/marketing/what-is-product-marketing)
 - [The Best Content Marketers in the World](http://tomtunguz.com/best-content-marketers/)
 
+## Media (Video, Audio, and More)
+
+- [Drift Podcast](https://blog.drift.com/ceo-time-management/) - A more relevant type of "podcast" using YouTube.
+
 ## Community Building
 
 - [Hack Club Workshops](https://workshops.hackclub.com/)
