@@ -16,14 +16,15 @@ As we've done customer research and discovery activities we've iterated on our m
 In terms of execution, we are currently using the following tools and services to communicate publicly:
 
 1. Twitter: [@WhatIsPinpoint](http://twitter.com/whatispinpoint)
-2. #EngOps Newsletter: [EngOps.is](http://engops.is/)
-3. Blog: [blog.pinpt.co](https://blog.pinpt.co/) (Subscribe for updates)
+2. Blog: [blog.pinpt.co](https://blog.pinpt.co/) (Subscribe for updates)
+3. #EngOps Newsletter: [EngOps.is](http://engops.is/)
 4. LinkedIn: [PinPT Inc](https://www.linkedin.com/company-beta/16164522/)
 5. Facebook: [Pinptco](https://www.facebook.com/pinptco/)
 6. Instagram: [@Pinptco](https://www.instagram.com/pinptco/)
 7. Angel List: [@Pinpt](https://angel.co/pinpt)
 8. Google+: [Pinpoint](https://plus.google.com/117342917449995386258)
+9. CrunchBase: [Pinpoint](https://www.crunchbase.com/organization/pinpoint-5)
 
-The first 3 (Twitter, Newsletter, Blog) are the ones that are being used the most, updated weekly with fresh content. The others are either passive (they are outlets where we share news, updates, and posts) through simple automation. 
+The first 3 (Twitter, Newsletter, Blog) are the ones that are being used the most, updated weekly with fresh content. LinkedIn and Angel List are also used and we'd love for you to add us there if you'd like. The others are either passive (they are outlets where we share news, updates, and posts) through simple automation. 
 
 We also do not use any free or paid services to coordinate release of content or updates or any analytics (outside of native solutions, like Twitter analytics). Most of our systems and processes right now are entirely manual. But it's worth noting that the newsletter and blog are paid services (Curated SaaS app, WPEngine blog hosting).
