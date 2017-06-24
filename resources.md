@@ -15,6 +15,21 @@ The following are resources that may prove useful for how we engage and build ou
 
 - [Digital Marketing Strategy: An A to Z Glossary](https://mention.com/blog/digital-marketing-strategy-guide/)
 - [Seth Lieberman on what CEOs want from Sales and Marketing leaders](https://getfunnelcake.com/blog/seth-lieberman)
+- [What is Docker](https://www.docker.com/what-docker)
+- [What is Slack](http://slack.com/is/)
+- [7 Principles to Growth Marketing](http://www.coelevate.com/essays/learn-growth-marketing)
+- [Clay Christensen’s Milkshake Marketing](http://hbswk.hbs.edu/item/clay-christensens-milkshake-marketing)
+- [Product and content are two sides of the same value proposition](https://medium.com/@nisfrome/product-and-content-are-two-sides-of-the-same-value-proposition-acadba6aa65b?_hsenc=p2ANqtz-_uBBPvIimCqaQGscN0dqGFt-6eZreibqWXBIK2VTytnJZnZRzvGDHklbZN-lRnlfmf6WaD7D7NYf3A7wVXjcEZSZEpoA&_hsmi=40464847)
+- [Edelman’s Lucy Allen on PR for startups](https://blog.intercom.com/edelmans-lucy-allen-on-pr-for-startups/)
+
+## Product 
+
+- [Crafting the First Mile of a Product](https://medium.com/positiveslope/crafting-the-first-mile-of-product-7ed25e8f1027)
+- [How People Buy Your Proudct](https://blog.intercom.com/how-people-buy/)
+- [Building To Independence on Top of Other Platforms](https://news.greylock.com/building-to-independence-on-top-of-other-platforms-5e6f2f8b0249)
+- [The Hierarchy of Engagement](https://medium.com/@sarahtavel/the-hierarchy-of-engagement-5803bf4e6cfa)
+
+
 
 ## Branding
 
@@ -34,10 +49,14 @@ The following are resources that may prove useful for how we engage and build ou
 - [Product and content are two sides of the same value proposition](https://medium.com/@nisfrome/product-and-content-are-two-sides-of-the-same-value-proposition-acadba6aa65b)
 - [What is Product Marketing](https://blog.hubspot.com/marketing/what-is-product-marketing)
 - [The Best Content Marketers in the World](http://tomtunguz.com/best-content-marketers/)
+- [A Primer on Developer Marketing](https://tomwentworth.com/a-primer-on-developer-marketing-47d792d67586)
+
 
 ## Media (Video, Audio, and More)
 
 - [Drift Podcast](https://blog.drift.com/ceo-time-management/) - A more relevant type of "podcast" using YouTube.
+
+
 
 ## Community Building
 
@@ -47,6 +66,10 @@ The following are resources that may prove useful for how we engage and build ou
 - [Twitter Developer Program](https://dev.twitter.com/)
 - [5 Unconventional Benefits Your Startup Will Get From a Hackathon](https://engineering.datorama.com/hackathon-benefits-d166182dcef9)
 - [Git Merge](http://git-merge.com/)
+- [Building Developer Communities: Unity](http://readwrite.com/2016/03/22/building-developer-community-pl2/)
+- [How to Build and Engage Developer Communities: Advice from Pros at Keen.io, Mashery, SmartThings](http://cmxhub.com/article/developer-evangelism-communities/)
+- [How To Build a Strong Developer Community](https://www.programmableweb.com/api-university/how-to-build-strong-developer-community)
+
 
 
 ## Conferences
