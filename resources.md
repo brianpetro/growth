@@ -28,7 +28,7 @@ The following are resources that may prove useful for how we engage and build ou
 - [How People Buy Your Proudct](https://blog.intercom.com/how-people-buy/)
 - [Building To Independence on Top of Other Platforms](https://news.greylock.com/building-to-independence-on-top-of-other-platforms-5e6f2f8b0249)
 - [The Hierarchy of Engagement](https://medium.com/@sarahtavel/the-hierarchy-of-engagement-5803bf4e6cfa)
-
+- [The Art of Storytelling](https://medium.com/high-alpha/the-art-of-storytelling-e895eb09aea1)
 
 
 ## Branding
