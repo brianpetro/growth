@@ -69,7 +69,7 @@ The following are resources that may prove useful for how we engage and build ou
 - [Building Developer Communities: Unity](http://readwrite.com/2016/03/22/building-developer-community-pl2/)
 - [How to Build and Engage Developer Communities: Advice from Pros at Keen.io, Mashery, SmartThings](http://cmxhub.com/article/developer-evangelism-communities/)
 - [How To Build a Strong Developer Community](https://www.programmableweb.com/api-university/how-to-build-strong-developer-community)
-
+- [What Makes Good Engineering Culture](https://web.archive.org/web/20150330232855/http://learn.tenxer.com/good-engineering-culture/)
 
 
 ## Conferences
