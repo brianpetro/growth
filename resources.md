@@ -21,6 +21,11 @@ The following are resources that may prove useful for how we engage and build ou
 - [Clay Christensen’s Milkshake Marketing](http://hbswk.hbs.edu/item/clay-christensens-milkshake-marketing)
 - [Product and content are two sides of the same value proposition](https://medium.com/@nisfrome/product-and-content-are-two-sides-of-the-same-value-proposition-acadba6aa65b?_hsenc=p2ANqtz-_uBBPvIimCqaQGscN0dqGFt-6eZreibqWXBIK2VTytnJZnZRzvGDHklbZN-lRnlfmf6WaD7D7NYf3A7wVXjcEZSZEpoA&_hsmi=40464847)
 - [Edelman’s Lucy Allen on PR for startups](https://blog.intercom.com/edelmans-lucy-allen-on-pr-for-startups/)
+- [AARRR (Startup Metrics)](http://startitup.co/guides/374/aarrr-startup-metrics)
+- [Your First Marketing Hire](https://medium.com/costanoa-ventures/your-first-marketing-hire-6b40553e97bb)
+- [Building a Growth Team from 0 to 50](http://www.coelevate.com/essays/building-a-growth-team-from-zero-to-fifty)
+- [How to Manage a Remote Growth Team](https://www.helpscout.net/blog/remote-marketing-team/)
+
 
 ## Product 
 
@@ -29,12 +34,19 @@ The following are resources that may prove useful for how we engage and build ou
 - [Building To Independence on Top of Other Platforms](https://news.greylock.com/building-to-independence-on-top-of-other-platforms-5e6f2f8b0249)
 - [The Hierarchy of Engagement](https://medium.com/@sarahtavel/the-hierarchy-of-engagement-5803bf4e6cfa)
 - [The Art of Storytelling](https://medium.com/high-alpha/the-art-of-storytelling-e895eb09aea1)
+- [The Art of Writing One-Sentence Product Descriptions](https://medium.dave-bailey.com/the-magic-formula-to-describe-a-product-in-one-sentence-175ce38619c7)
+- [Product Launch Tips: A 7 Step Checklist To Help Your Business](https://blog.drift.com/how-to-launch-a-product/)
+- [What is Product Marketing](https://adachen.com/what-is-product-marketing-a7352fd80b54)
+
 
 
 ## Branding
 
 - [How Logos Became the Most Important Quarter-Inch in Business](http://fortune.com/2017/06/16/business-logos-evolution-importance/)
 - [You Have to Be Like Pollen](https://blog.pinpt.co/pollen/)
+- [Credit Karma's CEO Built a Sexy Brand in an Unsexy Category with No PR Firm and a Tiny Budget](http://firstround.com/review/credit-karmas-ceo-built-a-sexy-brand-in-an-unsexy-category-with-no-pr-firm-and-a-tiny-budget-heres-how/)
+- [Intercom co-founder Des Traynor on starting up](https://blog.intercom.com/intercom-co-founder-des-traynor-on-starting-up/#history)
+
 
 
 ## Content (Marketing)
@@ -50,6 +62,24 @@ The following are resources that may prove useful for how we engage and build ou
 - [What is Product Marketing](https://blog.hubspot.com/marketing/what-is-product-marketing)
 - [The Best Content Marketers in the World](http://tomtunguz.com/best-content-marketers/)
 - [A Primer on Developer Marketing](https://tomwentworth.com/a-primer-on-developer-marketing-47d792d67586)
+- [Why 3000+ Word Blog Posts Get More Traffic (A Data Driven Answer)](http://neilpatel.com/blog/why-you-need-to-create-evergreen-long-form-content-and-how-to-produce-it/)
+- [The Ultimate Guide To Creating The Perfect Social Media Calendar](https://blog.bufferapp.com/social-media-calendar-guide)
+- [Slack’s $2.8 Billion Dollar Secret Sauce](https://medium.com/@awilkinson/slack-s-2-8-billion-dollar-secret-sauce-5c5ec7117908)
+
+
+## Marketing Communications (PR), G2M
+
+- [Everything You Ever Wanted to Know about Marketing Communications](https://steveblank.com/2017/04/05/everything-you-ever-wanted-to-know-about-marketing-communications/)
+- [The seven-step go-to-market strategy](https://www.marsdd.com/news-and-insights/the-seven-step-go-to-market-strategy/)
+- [Developing a G2M](https://www.slideshare.net/mtarrant/developing-a-goto-market-strategy)
+- [G2M Strategy](https://www.slideshare.net/MaRSDD/speaker-slides-jan-30)
+- [The Observer Effect: G2M](https://www.slideshare.net/TheObserverEffect/the-observer-effect-get-gotomarket-ready)
+- [G2M: How to Define](https://www.slideshare.net/rajivnetra/go-to-market-strategy)
+- [G2M: Developing a Winning Strategy](http://cultbranding.com/ceo/developing-winning-go-to-market-strategy/)
+- [Channel marketing](Channel marketing strategy: Seven steps for 21st-Century success)
+- [Growth-Hacking to 1,000 user](https://john.do/growth-hacking/)
+- [From 0 to $1B - Slack's Founder Shares Their Epic Launch Strategy](http://firstround.com/review/From-0-to-1B-Slacks-Founder-Shares-Their-Epic-Launch-Strategy/)
+- [Slack: We Don't Sell Saddles Here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)
 
 
 ## Media (Video, Audio, and More)
